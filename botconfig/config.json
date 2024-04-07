@@ -4,7 +4,6 @@
     "ownerIDS": [
         "761476233472376863"
     ],
-    "memer_api": "",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: RevelK",
