@@ -1,17 +1,15 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTE0NjI5MDcxMjYwMjc1OTE3OA.GIwQ4_.-YopLt4M1R-vdHlGclkuyDZOgySWuq-jZz13yo",
+    "prefix": "+",
     "ownerIDS": [
-        "442355791412854784"
+        "761476233472376863"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "memer_api": "fTJLBpkPvyZ",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "By: RevelK",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "https://twitter.com/Phoenix__IN"
     },
     "clientsettings": {
         "nodes": [
@@ -23,8 +21,8 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+        "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
